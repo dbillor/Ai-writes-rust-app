@@ -9,10 +9,11 @@ This Rust application logs user actions on a virtual machine. The application re
 - Logger: Writes logs to a specified location.
 - Unit tests: Tests the functionality of the logger and other components.
 - Command-line interface: Allows users to interact with the application.
-## Assistant's Contribution
 
 ## Usage
 To use this application, simply run `cargo run` in the project directory. The command-line interface will guide you through the process of reading and writing logs.
+
+## Assistant's Contribution
 The Rust application in this repository was developed by an AI Assistant. The Assistant was responsible for designing, implementing, and testing the application, as well as pushing it to the GitHub repository. Here is a summary of the steps taken by the Assistant:
 
 1. Analyzed the user's requirements and designed the application architecture, including modules for log parsing, data structures, logging, unit testing, and a command-line interface.

@@ -1,5 +1,3 @@
-
-
 ## Assistant's Contribution
 
 The Rust application in this repository was developed by an AI Assistant. The Assistant was responsible for designing, implementing, and testing the application, as well as pushing it to the GitHub repository. Here is a summary of the steps taken by the Assistant:
